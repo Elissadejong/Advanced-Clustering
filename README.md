@@ -2,7 +2,7 @@
 
 # Advanced Clustering
 
-The only purpose for this repository is to share the advance clustering class exercises.
+The only purpose for this repository is to share the advanced clustering class exercises.
 
 ## Instructions
 
