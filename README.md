@@ -2,15 +2,4 @@
 
 # Advanced Clustering
 
-The only purpose for this repository is to share the advanced clustering class exercises.
-
-## Instructions
-
-1. Open an `Issue` making sure that you write your name in the title.
-
-2.  In your issue comments post the link to you own repository (as we did in previous projects).
-
-3.  Make sure your repository is `public` so every one has access to it.
-
-
-Enjoy coding!!
+The sole purpose of this repository is to share the advanced clustering class exercises.
